@@ -27,8 +27,8 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/shrchrds/Chat-SQL.git
+cd Chat-SQL
 ```
 
 2. Configure the Database:
